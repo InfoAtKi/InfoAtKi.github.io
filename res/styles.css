@@ -220,13 +220,13 @@ h1 {
   }
 }
 
-div.horizontal {
+.horizontal {
   display: flex;
   justify-content: center;
   margin-bottom: 15px;
 }
 
-div.vertical {
+.vertical {
   display: flex;
   flex-direction: column;
   justify-content: center;
