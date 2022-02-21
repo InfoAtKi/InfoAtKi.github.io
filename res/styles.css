@@ -219,3 +219,16 @@ h1 {
     font-size: 75px;
   }
 }
+
+div.horizontal {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 15px;
+}
+
+div.vertical {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-right: 15px;
+}
