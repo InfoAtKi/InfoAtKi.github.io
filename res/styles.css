@@ -220,15 +220,22 @@ h1 {
   }
 }
 
-.horizontal {
+div.horizontal {
   display: flex;
   justify-content: center;
   margin-bottom: 15px;
 }
 
-.vertical {
+div.vertical {
   display: flex;
   flex-direction: column;
   justify-content: center;
   margin-right: 15px;
+}
+
+.imagecenter {
+  position: absolute;    
+  top: 50%;
+  left: 50%;
+  transform:translate(-50%,-50%);
 }
