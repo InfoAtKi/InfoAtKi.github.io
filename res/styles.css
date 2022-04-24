@@ -166,8 +166,8 @@ section {
 .bg-image {
   background-image: url(/res/background.jpg);
   background-attachment: scroll;
-  background-position: 25% 25%;
-  background-size: 25%;
+  background-position: 50% 50%;
+  background-size: 75%;
   background-repeat: no-repeat;
   background-color: transparent;
   opacity: .69;
