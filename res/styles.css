@@ -29,7 +29,7 @@ section {
   position: relative;
 }
 
-.bg-image {
+/* .bg-image {
   position: fixed;
   top: 0;
   right: 0;
@@ -37,9 +37,9 @@ section {
   left: 0;
   content: "";
   z-index: 0;
-}
+} */
 
-.form-horizontal .form-group {
+/* .form-horizontal .form-group {
   margin-right: 0;
   margin-left: 0;
 }
@@ -60,8 +60,8 @@ section {
 .user-signup__form-group {
   padding: 0 0 0 5px;
   position: relative;
-}
-
+} */
+/* 
 @media all and (max-width: 767px) {
   .form-horizontal .mt-table,.form-horizontal .mt-table--full,.form-horizontal .mt-table--centered,.form-horizontal .mt-table--full,.form-horizontal .mt-td--centered-vertical {
     display: block;
@@ -103,8 +103,8 @@ section {
     transform: translateY(0);
     float: none;
   }
-}
-
+} */
+/* 
 .insert--image {
   display: block;
   position: relative;
@@ -161,7 +161,7 @@ section {
 
 .rel {
   position: relative;
-}
+} */
 
 .bg-image {
   background-image: url(/res/background.jpg);
@@ -176,7 +176,7 @@ section {
 h1 {
   font-size: 40px;
 }
-
+/* 
 .form-control__input {
   border-width: 0;
   border-radius: 0;
@@ -218,7 +218,7 @@ h1 {
   h1 {
     font-size: 75px;
   }
-}
+} */
 
 div.horizontal {
   display: flex;
