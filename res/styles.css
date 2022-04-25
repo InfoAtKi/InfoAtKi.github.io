@@ -29,7 +29,7 @@ section {
   position: relative;
 }
 
-/* .bg-image {
+.bg-image {
   position: fixed;
   top: 0;
   right: 0;
@@ -37,7 +37,7 @@ section {
   left: 0;
   content: "";
   z-index: 0;
-} */
+}
 
 /* .form-horizontal .form-group {
   margin-right: 0;
