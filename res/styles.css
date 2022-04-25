@@ -29,16 +29,6 @@ section {
   position: relative;
 }
 
-.bg-image {
-  position: fixed;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  content: "";
-  z-index: 0;
-}
-
 /* .form-horizontal .form-group {
   margin-right: 0;
   margin-left: 0;
@@ -163,7 +153,25 @@ section {
   position: relative;
 } */
 
+/* .bg-image {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  content: "";
+  z-index: 0;
+} */
+
+
 .bg-image {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  content: "";
+  z-index: 0;
   background-image: url(/res/background.jpg);
   background-attachment: scroll;
   background-position: 50% 10%;
